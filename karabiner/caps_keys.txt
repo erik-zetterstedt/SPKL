@@ -1,0 +1,15 @@
+* hjkl -> arrows
+* u -> pagup
+* p -> pagedown
+* i -> home
+* o -> end
+* m -> delete char back
+* , -> delete char forward
+* n -> delete word back
+* . -> delete word forward
+* ' -> `
+* y -> \
+* å -> |
+* ö -> [
+* ä -> ]
+* r -> ^
